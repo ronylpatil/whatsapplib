@@ -1,13 +1,16 @@
 # WhatsApp-Analyzer Package
-<div style="border: 1px solid black;"><center>
-  <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;"></center>
-</div>
+
+<p align="center">
+  <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;">
+</p>
 
 As the name suggest <b>WhastsApp-Analyzer</b>, it is Whatsapp Group Chat analysis package. It will basically 
 help the programmers to generate <b>visual insights</b> from the whatsapp group chat. You need to do nothing, just 
 export the group chat and use this package to generate or create beautiful different-different charts.
 Here you do not have to worry about anything, internally it will do everything for you. It will perform <b>ETL(Extract-Transform-Load)</b> and finally generate insights
 in the form of visuals. There are approx. more than 15 methods are available which will help you to generate insights, even you can download each and every insight. 
+
+Link : https://pypi.org/project/WhatsApp-Group-Chat-Analysis/0.0.1/
 
 <b>The methods are listed below :</b>
 * <b>basicStats : </b> It will return some basic stats of group. Such as total users, total messages, total media messages and total link shared.
@@ -34,21 +37,15 @@ in the form of visuals. There are approx. more than 15 methods are available whi
 ## Installation
 Use the package manager pip to install all the requirements. Just follow the commands below :
 ```bash
-pip install WhatsApp-Analyzer==0.0.1
+pip install WhatsApp-Group-Chat-Analysis==0.0.1
 ```
 
 ## Note
 <b>Remember :</b> Your data must be in the format as mention below, if not, then try to transform your data in given format.
 <div style="border: 1px solid black;"><center>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ronylpatil/WhatsApp-Group-Chat-Analyzer-Package/main/Whtsapp%20Analyzer%20Raw/remember.png?token=APC76LANJA43H72YHOEF3PLBPOMTY" width="350" title="hover text">
-</p>  
-  
-  
-  
-<img class="center" src ="https://raw.githubusercontent.com/ronylpatil/WhatsApp-Group-Chat-Analyzer-Package/main/Whtsapp%20Analyzer%20Raw/remember.png?token=APC76LANJA43H72YHOEF3PLBPOMTY" alt="Drawing"></center>
-</div>
+  <img src="Image.png" title="hover text">
+</p></div>
 
 ## Examples
 ```python
@@ -90,5 +87,9 @@ top_emojis_i = obj.topEmojis_I('+91 81*** 00***')    # returning pandas datafram
 # download the figure or plot you can tweak the parameter.
 ```
 
-<b><center>This is my small open source contribution to Python's community. Feel free to connect me on <a href="https://www.linkedin.com/in/ronylpatil/">linkedin</a>. To check out my amazing blogs click <a href="https://www.analyticsvidhya.com/blog/author/ronyl0080/">here</a>.</b></center>
-<center><a href="https://www.linkedin.com/in/ronylpatil/"><Font color='red'>Made with ❤ by ronil</Font></a></center>
+<b>This is my small open source contribution to Python's community. Feel free to connect me on <a href="https://www.linkedin.com/in/ronylpatil/">linkedin</a>. To check out my amazing blogs click <a href="https://www.analyticsvidhya.com/blog/author/ronyl0080/">here</a>.</b>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ronylpatil/">Made with ❤ by ronil</a>
+</p>
