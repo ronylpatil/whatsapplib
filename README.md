@@ -1,8 +1,7 @@
-#<h1><center> WhatsApp-Analyzer Package
+# WhatsApp-Analyzer Package
 <div style="border: 1px solid black;"><center>
 <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;"></center>
 </div>
-
 
 As the name suggest <b>WhastsApp-Analyzer</b>, it is Whatsapp Group Chat analysis package. It will basically 
 help the programmers to generate <b>visual insights</b> from the whatsapp group chat. You need to do nothing, just 
@@ -83,23 +82,6 @@ top_emojis_i = obj.topEmojis_I('+91 81*** 00***')    # returning pandas datafram
 # are taking "save_fig" parameter to save the figure in current directory, which is optional, if you want to-
 # download the figure or plot you can tweak the parameter.
 ```
+
 <b><center>This is my small open source contribution to Python's community. Feel free to connect me on <a href="https://www.linkedin.com/in/ronylpatil/">linkedin</a>. To check out my amazing blogs click <a href="https://www.analyticsvidhya.com/blog/author/ronyl0080/">here</a>.</b></center>
 <center><a href="https://www.linkedin.com/in/ronylpatil/"><Font color='red'>Made with ❤ by ronil</Font></a></center>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
