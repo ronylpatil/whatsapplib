@@ -1,6 +1,6 @@
 # WhatsApp-Analyzer Package
 <div style="border: 1px solid black;"><center>
-<img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;"></center>
+  <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;"></center>
 </div>
 
 As the name suggest <b>WhastsApp-Analyzer</b>, it is Whatsapp Group Chat analysis package. It will basically 
@@ -40,6 +40,13 @@ pip install WhatsApp-Analyzer==0.0.1
 ## Note
 <b>Remember :</b> Your data must be in the format as mention below, if not, then try to transform your data in given format.
 <div style="border: 1px solid black;"><center>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ronylpatil/WhatsApp-Group-Chat-Analyzer-Package/main/Whtsapp%20Analyzer%20Raw/remember.png?token=APC76LANJA43H72YHOEF3PLBPOMTY" width="350" title="hover text">
+</p>  
+  
+  
+  
 <img class="center" src ="https://raw.githubusercontent.com/ronylpatil/WhatsApp-Group-Chat-Analyzer-Package/main/Whtsapp%20Analyzer%20Raw/remember.png?token=APC76LANJA43H72YHOEF3PLBPOMTY" alt="Drawing"></center>
 </div>
 
