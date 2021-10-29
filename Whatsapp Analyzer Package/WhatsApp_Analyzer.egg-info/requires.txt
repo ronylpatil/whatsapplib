@@ -1,7 +1,0 @@
-plotly
-nltk
-numpy
-emoji
-wordcloud
-matplotlib
-pandas
