@@ -10,7 +10,7 @@ export the group chat and use this package to generate or create beautiful diffe
 Here you do not have to worry about anything, internally it will do everything for you. It will perform <b>ETL(Extract-Transform-Load)</b> and finally generate insights
 in the form of visuals. There are approx. more than 15 methods are available which will help you to generate insights, even you can download each and every insight. 
 
-Link : https://pypi.org/project/WhatsApp-Group-Chat-Analysis/0.0.1/
+Link : https://pypi.org/project/WhatsappLib/0.0.5/
 
 <b>The methods are listed below :</b>
 * <b>basicStats : </b> It will return some basic stats of group. Such as total users, total messages, total media messages and total link shared.
@@ -37,7 +37,7 @@ Link : https://pypi.org/project/WhatsApp-Group-Chat-Analysis/0.0.1/
 ## Installation
 Use the package manager pip to install all the requirements. Just follow the commands below :
 ```bash
-pip install WhatsApp-Group-Chat-Analysis==0.0.1
+pip install WhatsappLib==0.0.5
 ```
 
 ## Note
@@ -51,11 +51,11 @@ pip install WhatsApp-Group-Chat-Analysis==0.0.1
 ## Examples
 ```python
 # importing the required libraries
-from whatsapp_analysis.preprocessing import Analyzer
+from WhatsappLib.whatsapplib.preprocess import analysis
 
 # you need to do just one simple step, create object of Analyzer class and pass location-
 # of directory as parameter which is mendatory.
-obj = Analyzer(r'*\Sample.txt')
+obj = analysis(r'*\Sample.txt')
 
 # Now use this reference variable (obj) to access this methods.
 total_users, total_messages, media_messages, links = obj.basicStats()      # it is returning 4 parameters
