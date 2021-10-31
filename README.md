@@ -51,7 +51,7 @@ pip install WhatsApp-Group-Chat-Analysis==0.0.1
 ## Examples
 ```python
 # importing the required libraries
-from whatsapp_analyzer.preprocessing import Analyzer
+from whatsapp_analysis.preprocessing import Analyzer
 
 # you need to do just one simple step, create object of Analyzer class and pass location-
 # of directory as parameter which is mendatory.
