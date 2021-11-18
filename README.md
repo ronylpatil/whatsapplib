@@ -40,6 +40,10 @@ Use the package manager pip to install all the requirements. Just follow the com
 pip install WhatsappLib==0.0.5
 ```
 
+<p align="center">
+  <img class="center" src ="" alt="Drawing" style="width: 300px;">
+</p>
+
 ## Note
 <b>Remember :</b> Your data must be in the format as mention below, if not, then try to transform your data in given format. And ya, If your time period is specified as <b>AM'&'PM'</b> format then you need to change them in lower case <b>'am'&'pm'</b> format. I will fix this issue and update this package ASAP.
 <div style="border: 1px solid black;"><center>
