@@ -41,7 +41,7 @@ pip install WhatsappLib==0.0.5
 ```
 
 <p align="center">
-  <img class="center" src ="" alt="Drawing" style="width: 300px;">
+  <img class="center" src ="whatsapplib.png" alt="Drawing" style="width: 1000px;">
 </p>
 
 ## Note
