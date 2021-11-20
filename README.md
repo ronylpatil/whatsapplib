@@ -1,7 +1,7 @@
 # WhatsApp-Analysis Package
 
 ##### Profile Visits :
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ronylpatil.whatsapplib&left_color=lightgrey&right_color=brightgreen&left_text=visitors) 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ronylpatil.&left_color=lightgrey&right_color=brightgreen&left_text=visitors) 
 
 <p align="center">
   <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;">
