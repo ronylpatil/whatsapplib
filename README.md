@@ -96,8 +96,7 @@ top_emojis_i = obj.topEmojis_I('+91 81*** 00***')    # returning pandas datafram
 ```
 
 <b>This is my small open source contribution to Python's community. Feel free to connect me on <a href="https://www.linkedin.com/in/ronylpatil/">linkedin</a>. To check out my amazing blogs click <a href="https://www.analyticsvidhya.com/blog/author/ronyl0080/">here</a>.</b>
-
-
+  
 <p align="center">
-  <a href="https://www.linkedin.com/in/ronylpatil/">Developed with ❤ by ronil</a>
+  <a href="https://www.linkedin.com/in/ronylpatil/">Made with ❤ by ronil</a>
 </p>
