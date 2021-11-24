@@ -99,5 +99,5 @@ top_emojis_i = obj.topEmojis_I('+91 81*** 00***')    # returning pandas datafram
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ronylpatil/">Made with ❤ by ronil</a>
+  <a href="https://www.linkedin.com/in/ronylpatil/">Developed with ❤ by ronil</a>
 </p>
