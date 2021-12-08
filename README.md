@@ -94,6 +94,20 @@ top_emojis_i = obj.topEmojis_I('+91 81*** 00***')    # returning pandas datafram
 # are taking "save_fig" parameter to save the figure in current directory, which is optional, if you want to-
 # download the figure or plot you can tweak the parameter.
 ```
+  
+<b>Sample Output : </b>
+<p align="center">
+  <img class="center" src ="/Sample/wp1.png" alt="Drawing" style="width : 900px; height : 500px">
+</p>
+<p align="center">
+  <img class="center" src ="/Sample/wp4.png" alt="Drawing" style="width : 900px; height : 500px">
+</p>
+<p align="center">
+  <img class="center" src ="/Sample/wp2.png" alt="Drawing" style="width : 900px; height : 500px">
+</p>
+<p align="center">
+  <img class="center" src ="/Sample/wp3.png" alt="Drawing" style="width : 900px; height : 500px">
+</p>
 
 <b>This is my small open source contribution to Python's community. Feel free to connect me on <a href="https://www.linkedin.com/in/ronylpatil/">linkedin</a>. To check out my amazing blogs click <a href="https://www.analyticsvidhya.com/blog/author/ronyl0080/">here</a>.</b>
   
